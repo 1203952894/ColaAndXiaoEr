@@ -1,9 +1,9 @@
 # ColaAndXiaoEr :love_letter:
 
 > 2021/11/07 4.32AM  
-  
-    
-      
+
+
+​      
 
 - **[ColaAndXiaoEr-异地恋的意义](https://github.com/1203952894/ColaAndXiaoEr/blob/main/%E7%94%9F%E6%B4%BB/%E7%9F%A5%E4%B9%8E/doc/%E5%BC%82%E5%9C%B0%E6%81%8B%E7%9A%84%E6%84%8F%E4%B9%89%E5%9C%A8%E5%93%AA%E9%87%8C.md)**
   
@@ -38,6 +38,24 @@
 ## 学习
 
 ### 学浪
+
+#### JDBC  
+
+#### python
+
+- [python入门](../ColaAndXiaoEr/学习/学浪/python/python入门.md)
+- [python的保留字、基本数据类型（不包括序列）](../ColaAndXiaoEr/学习/学浪/python/python的保留字、基本数据类型（不包括序列）.md)
+- [运算符](../ColaAndXiaoEr/学习/学浪/python/运算符.md)
+- [顺序、选择、循环结构以及break、continue、pass](../ColaAndXiaoEr/学习/学浪/python/顺序、选择、循环结构以及break、continue、pass.md)
+- [序列-字符串（包括字符串的基本格式、一些内置函数、方法等）](../ColaAndXiaoEr/学习/学浪/python/序列-字符串（包括字符串的基本格式、一些内置函数、方法等）.md)
+- [序列-列表（包括列表的基本格式、一些内置函数、方法等）](../ColaAndXiaoEr/学习/学浪/python/序列-列表（包括列表的基本格式、一些内置函数、方法等）.md)
+- [序列-元组（包括元组的基本格式、一些内置函数、方法等）](../ColaAndXiaoEr/学习/学浪/python/序列-元组（包括元组的基本格式、一些内置函数、方法等）.md)
+- [序列-集合（包括集合的基本格式、一些内置函数、方法等）](../ColaAndXiaoEr/学习/学浪/python/序列-集合（包括集合的基本格式、一些内置函数、方法等）.md)
+- [序列-字典（包括字典的基本格式、一些内置函数、方法等）](../ColaAndXiaoEr/学习/学浪/python/序列-字典（包括字典的基本格式、一些内置函数、方法等）.md)
+- [函数、模块、包](../ColaAndXiaoEr/学习/学浪/python/函数、模块、包.md)
+- [类与对象、继承、多态等面向对象程序设计](../ColaAndXiaoEr/学习/学浪/python/类与对象、继承、多态等面向对象程序设计的知识点.md)
+- [异常处理](../ColaAndXiaoEr/学习/学浪/python/异常处理.md)
+
 
 ### BiLiBiLi
 
