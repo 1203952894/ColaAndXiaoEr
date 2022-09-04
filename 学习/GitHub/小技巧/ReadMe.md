@@ -11,3 +11,4 @@
 > - [Idea2021破解](https://github.com/1203952894/ColaAndXiaoEr/blob/main/%E5%AD%A6%E4%B9%A0/GitHub/%E5%B0%8F%E6%8A%80%E5%B7%A7/doc/Idea2021%E7%A0%B4%E8%A7%A3.md)
 > - [解决端口占用](https://github.com/1203952894/ColaAndXiaoEr/blob/main/%E5%AD%A6%E4%B9%A0/GitHub/%E5%B0%8F%E6%8A%80%E5%B7%A7/doc/%E8%A7%A3%E5%86%B3%E7%AB%AF%E5%8F%A3%E5%8D%A0%E7%94%A8.md)
 > - [GitHub桌面端安装与汉化](https://github.com/1203952894/ColaAndXiaoEr/blob/main/%E5%AD%A6%E4%B9%A0/GitHub/%E5%B0%8F%E6%8A%80%E5%B7%A7/doc/GitHubDesktop%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E6%B1%89%E5%8C%96.md)
+> - [Linux下实现端口常驻]()
