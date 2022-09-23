@@ -81,7 +81,6 @@
 
 ![image.png](./assets/1663914429257-image.png)
 
-
 ### 1.1.2 QQ
 
 > **作用：用于 Emmm 怀念吧** 😄
@@ -97,7 +96,6 @@
 ![image.png](./assets/1663909393227-image.png)
 
 ![image.png](./assets/1663909414021-image.png)
-
 
 ### 1.1.4 7-Zip
 
@@ -304,8 +302,6 @@ TODO 详细下载 以及 初始 SSM 环境的搭建请参见 ColaBlog
 >
 > 下载：[Xftp 官网下载](https://www.xshell.com/zh/free-for-home-school/)
 
-
-
 ![image.png](./assets/1663912611016-image.png)
 
 ### 2.1.10 Xshell
@@ -345,15 +341,11 @@ TODO  user config 的配置  公钥密钥的下载和上传  本地仓库和远�
 >
 > 下载：[Python 官网下载](https://www.python.org/downloads/windows/)
 
-
-
 ### 3.1.4 Node.js
 
 > 作用：源和跨平台的 JavaScript 运行时环境
 >
 > 下载：[Node.js 官网](http://nodejs.cn/download/)
-
-
 
 ### 3.1.5 Maven
 
@@ -426,8 +418,6 @@ TODO 整理希捷硬盘中的目录结构
 > 使用： Win + V 键 开启
 
 ![image.png](./assets/1663914131196-image.png)
-
-
 
 ### 5.1.2 Hyper-V 虚拟技术
 
